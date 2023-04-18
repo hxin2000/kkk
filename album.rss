@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>校園角落</title>
+   	<link>.</link>
+        <generator>jAlbum 30.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>悠閒</title>
+            <link>slides/cpm35%202023-04-12%20002638.116.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>小鳥自由的活動對比來來去去的學生格外悠閒
+</description>
+            <media:description type="html">小鳥自由的活動對比來來去去的學生格外悠閒
+</media:description>
+            <media:thumbnail url="thumbs/cpm35%202023-04-12%20002638.116.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/cpm35%202023-04-12%20002638.116.JPG" width="534" height="800"/>
+            <jalbum:exif originalDate="Tue, 11 Apr 2023 15:06:46 +0800" cameraMake="Apple" cameraModel="iPhone XR"/>
+            <guid isPermaLink="false">slides/cpm35%202023-04-12%20002638.116.JPG</guid>
+        </item>
+        <item>
+            <title>街道上的驚喜</title>
+            <link>slides/hoga%202023-04-12%20002044.493.jpg</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>粉色的花為皆是綠色植物的街道增添一絲美感</description>
+            <media:description type="html">粉色的花為皆是綠色植物的街道增添一絲美感</media:description>
+            <media:thumbnail url="thumbs/hoga%202023-04-12%20002044.493.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/hoga%202023-04-12%20002044.493.jpg" width="800" height="800"/>
+            <jalbum:exif originalDate="Tue, 11 Apr 2023 15:06:30 +0800" cameraMake="Apple" cameraModel="iPhone XR"/>
+            <guid isPermaLink="false">slides/hoga%202023-04-12%20002044.493.jpg</guid>
+        </item>
+        <item>
+            <title>學習</title>
+            <link>slides/IMG_0897.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>教學樓外的大樹與小樹象徵教室裡的老師與學生
+</description>
+            <media:description type="html">教學樓外的大樹與小樹象徵教室裡的老師與學生
+</media:description>
+            <media:thumbnail url="thumbs/IMG_0897.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0897.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_0897.JPG</guid>
+        </item>
+        <item>
+            <title>綠色的拱門</title>
+            <link>slides/IMG_0896.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>排列的大樹形成拱門般的景象</description>
+            <media:description type="html">排列的大樹形成拱門般的景象</media:description>
+            <media:thumbnail url="thumbs/IMG_0896.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0896.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_0896.JPG</guid>
+        </item>
+        <item>
+            <title>紓壓</title>
+            <link>slides/IMG_0900.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>考完試沉重的心情看到美麗的天空就煙消雲散</description>
+            <media:description type="html">考完試沉重的心情看到美麗的天空就煙消雲散</media:description>
+            <media:thumbnail url="thumbs/IMG_0900.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0900.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_0900.JPG</guid>
+        </item>
+        <item>
+            <title>獨特</title>
+            <link>slides/IMG_0898.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>校園裡獨樹一格的建設</description>
+            <media:description type="html">校園裡獨樹一格的建設</media:description>
+            <media:thumbnail url="thumbs/IMG_0898.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0898.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_0898.JPG</guid>
+        </item>
+        <item>
+            <title>自然美</title>
+            <link>slides/IMG_0901.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>陽光灑落在雄偉的樹上
+</description>
+            <media:description type="html">陽光灑落在雄偉的樹上
+</media:description>
+            <media:thumbnail url="thumbs/IMG_0901.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0901.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_0901.JPG</guid>
+        </item>
+        <item>
+            <title>校園森活</title>
+            <link>slides/IMG_0899.JPG</link>
+            <pubDate>Tue, 18 Apr 2023 15:56:58 +0800</pubDate>
+            <description>校園充滿滿滿的大自然
+</description>
+            <media:description type="html">校園充滿滿滿的大自然
+</media:description>
+            <media:thumbnail url="thumbs/IMG_0899.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_0899.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_0899.JPG</guid>
+        </item>
+    </channel>
+</rss>
